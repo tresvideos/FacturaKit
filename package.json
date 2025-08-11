@@ -1,6 +1,6 @@
 {
-  "name": "facturas-next-v7",
-  "version": "1.2.1",
+  "name": "facturakit",
+  "version": "7.3.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
